@@ -1,0 +1,8 @@
+c:\users\chris\source\repos\F_Sharp_Numbers\F_Sharp_Numbers\bin\Debug\netcoreapp2.0\F_Sharp_Numbers.deps.json
+c:\users\chris\source\repos\F_Sharp_Numbers\F_Sharp_Numbers\bin\Debug\netcoreapp2.0\F_Sharp_Numbers.runtimeconfig.json
+c:\users\chris\source\repos\F_Sharp_Numbers\F_Sharp_Numbers\bin\Debug\netcoreapp2.0\F_Sharp_Numbers.runtimeconfig.dev.json
+c:\users\chris\source\repos\F_Sharp_Numbers\F_Sharp_Numbers\bin\Debug\netcoreapp2.0\F_Sharp_Numbers.dll
+c:\users\chris\source\repos\F_Sharp_Numbers\F_Sharp_Numbers\bin\Debug\netcoreapp2.0\F_Sharp_Numbers.pdb
+c:\users\chris\source\repos\F_Sharp_Numbers\F_Sharp_Numbers\obj\Debug\netcoreapp2.0\F_Sharp_Numbers.dll
+c:\users\chris\source\repos\F_Sharp_Numbers\F_Sharp_Numbers\obj\Debug\netcoreapp2.0\F_Sharp_Numbers.pdb
+c:\users\chris\source\repos\F_Sharp_Numbers\F_Sharp_Numbers\obj\Debug\netcoreapp2.0\F_Sharp_Numbers.fsprojAssemblyReference.cache
